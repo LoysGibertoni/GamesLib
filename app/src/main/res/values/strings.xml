@@ -1,0 +1,6 @@
+<resources>
+    <string name="button_trailer">Assistir trailer</string>
+    <string name="release_date_message">Lançado em</string>
+    <string name="platforms_message">Disponível para as plataformas</string>
+    <string name="youtube_player_error">Um erro não recuperável ocorreu</string>
+</resources>
